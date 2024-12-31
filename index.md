@@ -6,3 +6,7 @@
 import numpy as np
 import pandas as pd
 ```
+
+- [x] Meep
+- [ ] Moop
+- [x] Merp
